@@ -9,6 +9,10 @@
 
 本手册持续更新中，如有错误或遗漏欢迎提 issue
 
+如果你已经学会了编写 Nuclei 的 PoC，可以看看：https://huta0kj.github.io/2023/11/18/good-poc/
+
+
+
 ## 目录
 
 + Nuclei 官方地址
