@@ -1,7 +1,7 @@
 # NucleiManual
 ## 简介
 
-在线地址：https://huta0kj.github.io/2023/10/05/%E3%80%90%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7%E3%80%91Nuclei/
+在线地址：http://furina.org.cn/2023/10/05/Nuclei/
 
 本手册为我在学习 Nuclei 中整理的常见使用方法和 Nuclei PoC 编写语法。
 
@@ -9,7 +9,7 @@
 
 本手册持续更新中，如有错误或遗漏欢迎提 issue
 
-如果你已经学会了编写 Nuclei 的 PoC，可以看看：https://huta0kj.github.io/2023/11/18/good-poc/
+如果你已经学会了编写 Nuclei 的 PoC，可以看看：http://furina.org.cn/2023/11/18/good-poc/
 
 
 
