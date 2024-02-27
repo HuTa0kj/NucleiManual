@@ -1,37 +1,35 @@
 # NucleiManual
-## 简介
+## Introduce
 
-在线地址：http://furina.org.cn/2023/10/05/Nuclei/
+Online address: http://furina.org.cn/2023/10/05/Nuclei/
 
-本手册为我在学习 Nuclei 中整理的常见使用方法和 Nuclei PoC 编写语法。
+This manual provides me with common uses of Nuclei sorting and the syntax for writing Nuclei PoC.
 
-其中也分享了一些常见的误报，以及如何减少误报。
+It also shares some common false positives and how to reduce them.
 
-本手册持续更新中，如有错误或遗漏欢迎提 issue
+This manual is continuously updated, if there are errors or omissions, please feel free to raise an issue
 
-如果你已经学会了编写 Nuclei 的 PoC，可以看看：http://furina.org.cn/2023/11/18/good-poc/
+If you have learned to write Nuclei PoC, you can look at: http://furina.org.cn/2023/11/18/good-poc/
 
+## Leading principles
 
++ Nuclei official address
 
-## 目录
++ Quick to use
 
-+ Nuclei 官方地址
-
-+ 快速使用
-
-+ Nuclei PoC 编写
-  + 编写规范
-  + Nuclei YAML 语法
-    + Nuclei PoC 结构
-    + 漏洞描述
-    + 变量定义
-    + 数据包
-    + 攻击设置
-    + 请求设置
-    + 匹配器
-    + 提取器
-    + 完整 Demo
-+ Nuclei 内置函数
++ Written by Nuclei PoC
+  + Writing specifications
+  + Nuclei YAML syntax
+    + Nuclei PoC structure
+    + Vulnerability description
+    + Variable definitions
+    + Data pack
+    + Attack settings
+    + Request settings
+    + Matcher
+    + Extractor
+    + Demo
++ Nuclei support functions
 
 
 
